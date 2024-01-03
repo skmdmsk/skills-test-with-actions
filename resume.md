@@ -1,6 +1,6 @@
 # GitHub Teacher
 
-_Charting the knowledge of the Internet, just like Galileo charted the stars._
+Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Experience
 
@@ -21,7 +21,7 @@ Provide world class support to customers on the GitHub platform
 
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+Developed and maintained various conference talks, online training, and in_person trainings covering various topics including Git, GitHub, and Open Source.
 
 ### Leadership
 
